@@ -8,6 +8,7 @@ Contributions to the IntelliAV app is very welcomed.
 - If you would like to add your language to the intelliAV Android app, please send us an email.
 
 Email: intelliavapp@gmail.com
+Website: http://www.intelliav.com
 
 ## Acknowledgment:
 
