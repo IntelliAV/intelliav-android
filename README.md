@@ -1,9 +1,18 @@
 # IntelliAV
 Intelligent Anti-Malware for Android (FREE and WITHOUT ADVERTISEMENT)
 
-This is the official repository for IntelliAV Android app. At the moment, contributions to the IntelliAV app is very welcomed but only for language support. However, we plan to gradually make the project open source. 
+Contributions to the IntelliAV app is very welcomed.
 
-- If you are interested to support the project, please send us an email. 
-- If you would like to contribute to the language of intelliAV Android app, please send us an email.
+- If you are interested in supporting/sponsoring the project, please send us an email. 
+- If you are interested in a potential collaboration, please contact us.
+- If you would like to add your language to the intelliAV Android app, please send us an email.
 
 Email: intelliavapp@gmail.com
+
+## Acknowledgment:
+
+Sardinian Language Support:
+- Mario A. Sanna
+
+Czech Language Support:
+- [Jan Novák](https://github.com/EnrichSilen)
