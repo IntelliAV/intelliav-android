@@ -53,7 +53,6 @@
     <string name="file_name">Nome del file</string>
     <string name="app_size">Dimensione dell\'App:</string>
     <string name="file_not_exists">Il file selezionato non esiste!</string>
-    <string name="percent">%</string>
     <string name="deactivate_report">Apprezzeremmo che non disattivassi questa opzione, perché può aiutarci a migliorare la tua protezione. Sei sicuro di volerla disattivare?</string>
     <string name="hash">Hash:</string>
     <string name="install">Installa</string>
@@ -91,4 +90,7 @@
     <string name="alert_window">Per favore concedi l\'autorizzazione per mostrare una finestra sopra le altre applicazioni, in modo che possa informarti in caso di applicazioni a rischio</string>
     <string name="follow">Seguici</string>
     <string name="rate">Valuta l\'app</string>
+    <string name="country_not_supported">Non è colpa mia! Sono spiacente ma uno dei servizi di Google non è supportato nel tuo Paese. Non posso completare l\'inizializzazione.</string>
+    <string name="device_not_supported">Sono spiacente ma non sono supportato sul tuo dispositivo. Per favore contatta i miei sviluppatori.</string>
+    <string name="sorry">Scusa!</string>
 </resources>

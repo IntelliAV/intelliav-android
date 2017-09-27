@@ -31,7 +31,7 @@
     <string name="file_not_deleted">فایل حذف نشد!</string>
     <string name="custom_scan_not_working">پویش کامل بدون این مجوز امکان پذیر نیست!</string>
     <string name="high_risk_install_message">ریسک زیاد است. شدیدا توصیه می شود از نصب برنامه اجتناب شود. آیا همچنان از نصب اطمینان دارید؟</string>
-    <string name="last_quick_scan">آخرین پویش سریع:</string>
+    <string name="last_quick_scan">آخرین پویش:</string>
     <string name="low_risk_install_message">ریسک کم است. آیا از نصب اطمینان دارید؟</string>
     <string name="med_risk_install_message">ریسک متوسط است. بهتر است که نصب انجام نشود. آیا همچنان از نصب اطمینان دارید؟</string>
     <string name="no">خیر</string>
@@ -54,7 +54,6 @@
     <string name="app_size">حجم برنامه:</string>
     <string name="file_not_exists">فایل موجود نمیباشد!</string>
     <string name="report_risky_app">گزارش خودکار برنامه های خطرناک</string>
-    <string name="percent">٪</string>
     <string name="please">لطفا</string>
     <string name="thanks">عالی!!! بسیار ممنونم!</string>
     <string name="thanks_report">متشکرم از گزارش این برنامه!</string>
@@ -91,4 +90,7 @@
     <string name="request_permission">درخواست مجوز</string>
     <string name="follow">دنبال کنید</string>
     <string name="rate">ارزیابی</string>
+    <string name="country_not_supported">مشکل از من نمی باشد! متاسفانه یکی از سرویس های گوگل در کشور شما پشتیبانی نمی شود. به همین دلیل امکان ادامه را ندارم.</string>
+    <string name="sorry">متاسفم!</string>
+    <string name="device_not_supported">متاسفانه سیستم شما را نمی توانم پشتیبانی کنم. لطفا با برنامه نویسان من تماس بگیرید.</string>
 </resources>

@@ -52,7 +52,6 @@
     <string name="storage_permission_granted">Permissu dadu!</string>
     <string name="file_name">Nùmene de su file</string>
     <string name="file_not_exists">Su file seberadu non b\'est!</string>
-    <string name="percent">%</string>
     <string name="deactivate_report">Nos faghet piaghere si non disativas custa optzione, poite nos agiuat a mezorare sa tua protetzione. Ses seguru chi la cheres disativare?</string>
     <string name="hash">Hash:</string>
     <string name="install">Installa</string>
@@ -91,4 +90,7 @@
     <string name="alert_window">Pro piaghere dae su permissu pro ammustrare una notìfica subra sas àteras aplicatziones, gai ti poto avisare si b\'ant aplicatziones a rischiu</string>
     <string name="rate">Valuta s\'aplicatzione</string>
     <string name="follow">Sighi·nos</string>
+    <string name="country_not_supported">Non è colpa mia! Sono spiacente ma uno dei servizi di Google non è supportato nel tuo Paese. Non posso completare l\'inizializzazione.</string>
+    <string name="sorry">Scusa!</string>
+    <string name="device_not_supported">Sono spiacente ma non sono supportato sul tuo dispositivo. Per favore contatta i miei sviluppatori.</string>
 </resources>
